@@ -1,0 +1,9 @@
+.center {
+    width: 100%;
+    text-align: center;
+}
+
+.const {
+    font-size: 3em;
+    color: rgba(13, 130, 155, 99);
+}
